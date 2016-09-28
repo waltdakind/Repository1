@@ -1,4 +1,4 @@
-Respository1
+Repository1
 ============
 
 Getting started
